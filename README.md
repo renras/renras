@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renzo Visperas</h1>
-<h3 align="center">A software developer from the Philppines</h3>
+<h3 align="center">A software developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **my skills**
 
