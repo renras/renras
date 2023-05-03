@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **postgresql, supabase**
+- 🌱 I’m currently learning **Database Engineering**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v4-ashy.vercel.app/](https://portfolio-v4-ashy.vercel.app/)
 
