@@ -31,9 +31,7 @@
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=renras&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renras&show_icons=true&locale=en" alt="renras" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renras&show_icons=true&locale=en&theme=dark" alt="renras" /></p>
 
 ## Contributions
 
