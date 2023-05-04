@@ -9,22 +9,22 @@
 
 ## Skills and Experience:
 <ul style="display: flex; flex-direction: column; gap: 12px">
-<li style="display: flex; align-items: center; gap: 8px">
+<li style="display: flex; align-items: center; gap: 12px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react" width="20" height="20"/> TypeScript
 </li>
-<li style="display: flex; align-items: center; gap: 8px">
+<li style="display: flex; align-items: center; gap: 12px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="react" width="20" height="20"/> Python
 </li>
-<li style="display: flex; align-items: center; gap: 8px">
+<li style="display: flex; align-items: center; gap: 12px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="20" height="20"/> Node
 </li>
-<li style="display: flex; align-items: center; gap: 8px">
+<li style="display: flex; align-items: center; gap: 12px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React
 </li>
-<li style="display: flex; align-items: center; gap: 8px">
+<li style="display: flex; align-items: center; gap: 12px">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="react" width="20" height="20"/> Firebase
 </li>
-<li style="display: flex; align-items: center; gap: 8px">
+<li style="display: flex; align-items: center; gap: 12px">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="react" width="20" height="20"/> Django
 </li>
 </ul>
