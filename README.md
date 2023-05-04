@@ -1,3 +1,6 @@
+
+![github-header-image](https://user-images.githubusercontent.com/85605271/236220059-87656872-d8a9-401a-9fcc-3d99478ca457.png)
+
 <h1>Hi 👋, I'm Renzo Visperas</h1>
 <p>I am a developer with expertise in front-end and back-end development, as well as a strong understanding of UX design principles. My passion for creating effective and user-friendly websites and applications drives me to continually improve my skills and stay up-to-date with the latest industry trends.</p>
 
