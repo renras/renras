@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Renzo Visperas</h1>
-<h3 align="center">A software developer from the Philippines</h3>
+<h1>Hi 👋, I'm Renzo Visperas</h1>
+<p>I am a developer with expertise in front-end and back-end development, as well as a strong understanding of UX design principles. My passion for creating effective and user-friendly websites and applications drives me to continually improve my skills and stay up-to-date with the latest industry trends.</p>
 
 
 
