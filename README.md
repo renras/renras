@@ -4,4 +4,3 @@ I'm Renzo Visperas from the Philippines. I am a developer with expertise in fron
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renras&show_icons=true&locale=en" alt="renras" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renras&show_icons=true&locale=en&layout=compact" alt="renras" /></p>
