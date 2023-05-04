@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v4-ashy.vercel.app/](https://portfolio-v4-ashy.vercel.app/)
 
-- 💬 Ask me about **react, django, firebase, node**
-
 - 📫 How to reach me **renzovisperas07@gmail.com**
 
 ## Skills and Experience:
