@@ -31,7 +31,7 @@
 
 ## Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renras&theme=dark&show_icons=true&locale=en" alt="renras" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renras&theme=radical&show_icons=true&locale=en" alt="renras" /></p>
 
 ## Contributions
 
