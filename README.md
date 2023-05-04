@@ -35,4 +35,4 @@
 
 ## Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renras&" alt="renras" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=renras&theme=dark&hide_border=false)
