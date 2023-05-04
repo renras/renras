@@ -1,6 +1,8 @@
 
 <h1>Hi 👋, I'm Renzo Visperas</h1>
-![github-header-image (1)](https://user-images.githubusercontent.com/85605271/236223236-9ed4419d-357c-4168-80b0-160bec86e1e1.png)
+
+![github-header-image (1)](https://user-images.githubusercontent.com/85605271/236223446-12411f7b-f6aa-4d50-8ac8-b0bf08719fb3.png)
+
 <p>I am a developer with expertise in front-end and back-end development, as well as a strong understanding of UX design principles. My passion for creating effective and user-friendly websites and applications drives me to continually improve my skills and stay up-to-date with the latest industry trends.</p>
 
 - 🌱 I’m currently learning **Database Engineering**
