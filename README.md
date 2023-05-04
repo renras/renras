@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renras&show_icons=true&locale=en" alt="renras" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renras&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renras&show_icons=true)
 ## Contributions
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renras&theme=dark&hide_border=false)
