@@ -36,6 +36,3 @@
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=renras&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-## Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=renras&theme=dark)](https://git.io/streak-stats)
